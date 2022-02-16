@@ -27,8 +27,8 @@ a{
   flex-direction: column;
   align-items: center;
 
-  background-image: url(./card-background.png);
-  background-color: rgba(0,0,0, .4);
+  background-image: url(./Tommy-card-background.png);
+  background-color: rgba(0,0,0,.4);
 
 
   border-radius: 7px;
@@ -38,6 +38,8 @@ a{
 
   margin: 50px auto;
   padding: 0px 50px;
+
+  box-shadow: 3px 3px 8px 4px rgba(0, 0, 0, .6);
 }
 
 .card-body{
