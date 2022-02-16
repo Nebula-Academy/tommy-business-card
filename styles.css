@@ -9,7 +9,7 @@ html, body{
 }
 
 img{
-  max-width: 175px;
+  width: 175px;
   height: 175px;
   padding: 20px;
   border-radius: 25px;
